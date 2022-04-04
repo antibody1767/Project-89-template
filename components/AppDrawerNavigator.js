@@ -13,7 +13,7 @@ export const AppDrawerNavigator = createDrawerNavigator({
   Home : {
     screen : AppTabNavigator,
     navigationOptions:{
-      drawerIcon : <Icon/>
+       drawerIcon : <Icon name="home" type ="fontawesome5" />
     }
     },
   MyBarters:{
