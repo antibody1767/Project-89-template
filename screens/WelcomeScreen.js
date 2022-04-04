@@ -319,7 +319,7 @@ const styles = StyleSheet.create({
     
   },
   registerButtonText: {
-    fontSize: 23,
+    fontSize: RFvalue(23),
     fontWeight: "bold",
     color: "#fff",
   },
